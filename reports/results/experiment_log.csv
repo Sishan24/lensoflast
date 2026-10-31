@@ -1,0 +1,1 @@
+run_id,date,dataset_version,model,seed,optimizer,learning_rate,batch_size,epochs,best_validation_metric,test_metric,notes
