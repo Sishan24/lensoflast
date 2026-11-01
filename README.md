@@ -17,7 +17,7 @@ LensofLast is a solo B.Tech Deep Learning project. It is designed to recognise p
 ## Repository map
 
 ```text
-ExpiryLens/
+lensoflast/
 ├── README.md
 ├── .gitignore
 ├── .env.example
