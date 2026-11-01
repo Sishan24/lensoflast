@@ -1,8 +1,8 @@
-# ExpiryLens
+# LensOfLast
 
 **An Intelligent Deep Learning-Based Product Label Recognition, Expiry Monitoring and Inventory Management System**
 
-ExpiryLens is a solo B.Tech Deep Learning project. It is designed to recognise product-label information from photographs, interpret date fields (MFD, EXP, Best Before, Use By, etc.), validate extracted values, and maintain a digital product inventory.
+LensofLast is a solo B.Tech Deep Learning project. It is designed to recognise product-label information from photographs, interpret date fields (MFD, EXP, Best Before, Use By, etc.), validate extracted values, and maintain a digital product inventory.
 
 > This repository is the foundational project scaffold. It includes project structure, setup instructions, dependency manifests, API/UI skeletons, data contracts, experiment plans and documentation. The trained neural networks are intentionally not represented as already completed.
 
